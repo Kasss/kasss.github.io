@@ -15,8 +15,6 @@
             text-decoration: none;
             color: $text-color-white;
             font-size: $big-font-size;
-            font-weight: bold;
-            text-transform: uppercase;
         }
     }
 
@@ -26,7 +24,7 @@
         border: 12px #fff solid;
         height: 200px;
         width: 200px;
-        background: url('../assets/img.svg') center center no-repeat #fff;
+        background: url('../assets/img.jpg') center center no-repeat #fff;
         background-size: 50px 50px;
         display: inline-block;
         margin-bottom: -140px;

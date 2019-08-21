@@ -33,13 +33,13 @@ body {
   padding: 0;
   margin: 0;
 
-  background-image: url('../assets/space.jpg');
+  background-image: url('../assets/hero.jpg');
 
   letter-spacing: 0.01em;
   line-height: 1.6;
   font-size: 1.5em;
   font-weight: 400;
-  font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: $base-font-family;
 }
 
 .outer{

@@ -4,6 +4,7 @@ title:  "Android developer at Magnum Cash&Carry"
 date:   2018-11-12 10:00:00 +0600
 date_end: 2019-08-01 18:10:00 +0600
 categories: info
+url: work/3
 ---
 Developed mobile application from scratch, test and fix bugs.
 [Magnum Cash&Carry][magnum] - #1 retail chain company.

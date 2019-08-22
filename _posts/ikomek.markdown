@@ -4,6 +4,7 @@ title:  "Android developer at ikomek.kz"
 date:   2017-09-19 11:50:00 +0600
 date_end: 2018-02-15 18:10:00 +0600
 categories: info
+url: work/1
 ---
 First work experience. Developed mobile application both iOS and Android (also partly for backend - PHP, Symphony). Description of project below:
 ikomek.kz - specialized portal for professional participants in the market of domestic services.

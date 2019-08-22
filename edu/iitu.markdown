@@ -1,25 +1,15 @@
 ---
 layout: edu
-title:  "Finished "
-date:   2016-07-19 11:49:45 +0600
-categories: jekyll update
+title:  "International IT University"
+date:   2014-08-26 12:50:00 +0600
+date_end: 2018-07-29 10:50:00 +0600
+categories: info
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Graduated International IT University in Almaty, Kazakhstan 🇰🇿.
+  - 🎓 BSc degree - Computer Systems and Software Engineering (3.1 Overall GPA)
+  - 💾 Collaborated with Microsoft MSP program
+  - ⌨️ Participated in Hackathon, Almaty 2016
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Visit [International IT University][iitu].
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[iitu]: http://www.iitu.kz/

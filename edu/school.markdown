@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: edu
 title:  "Finished Lyceum #173"
 date:   2016-07-19 11:49:45 +0600
 categories: info

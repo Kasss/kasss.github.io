@@ -1,5 +1,5 @@
 ---
-layout: edu
+layout: post
 title:  "International IT University"
 date:   2014-08-26 12:50:00 +0600
 date_end: 2018-07-29 10:50:00 +0600

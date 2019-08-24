@@ -27,7 +27,7 @@ layout: default
       <span class="card-title">Education</span>
 
       <ul class="post-list" id="edu">
-        {% for edu in site.edu %}
+        {% for post in site.education %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ edu.url | prepend: site.baseurl }}">{{ edu.title }}</a>

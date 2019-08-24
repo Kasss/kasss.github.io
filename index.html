@@ -30,7 +30,7 @@ layout: default
       <span class="card-title">Education</span>
 
       <ul class="post-list" id="edu">
-        {% for post in site.posts.categories.education %}
+        {% for post in site.posts %}
         {% if post.type == "edu" %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

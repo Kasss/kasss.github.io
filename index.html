@@ -33,8 +33,10 @@ layout: default
         {% for post in site.posts %}
         {% if post.type == "edu" %}
           <li>
+            <span class="post-meta">{{ post.date_end | date: "%b %-d, %Y" }}</span>
+            <span class="post-meta"> - </span>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <a class="post-link" href="{{ edu.url | prepend: site.baseurl }}">{{ edu.title }}</a>
+            <a class="post-link" href="{{ edu.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
         {% endif %}
         {% endfor %}

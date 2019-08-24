@@ -13,13 +13,15 @@ layout: default
       <span class="card-title">Experience</span>
 
       <ul class="post-list" id="exp">
-        {% for post in site.posts.categories.job %}
+        {% for post in site.posts %}
+        {% if post.type == "job" %}
           <li>
             <span class="post-meta">{{ post.date_end | date: "%b %-d, %Y" }}</span>
             <span class="post-meta"> - </span>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
+        {% endif %}
         {% endfor %}
       </ul>
 
@@ -29,10 +31,12 @@ layout: default
 
       <ul class="post-list" id="edu">
         {% for post in site.posts.categories.education %}
+        {% if post.type == "edu" %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ edu.url | prepend: site.baseurl }}">{{ edu.title }}</a>
           </li>
+        {% endif %}
         {% endfor %}
       </ul>
 

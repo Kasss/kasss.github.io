@@ -3,8 +3,8 @@ layout: post
 title:  "Android developer at LPM"
 date:   2018-07-15 11:50:00 +0600
 date_end: 2018-11-12 11:50:00 +0600
-categories: job
 url: work/2
+type: job
 ---
 Developed mobile application for Android. Description of project below:
 Kopilka - coalition loyalty program in B2B sector. Worked with most recognizable companies in Kazakhstan.

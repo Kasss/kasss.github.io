@@ -3,8 +3,8 @@ layout: post
 title:  "Finished Lyceum #173"
 date:   2002-07-19 11:49:45 +0600
 date_end: 2014-07-01 10:50:00 +0600
-categories: education
 url: edu/1
+type: edu
 ---
 Finished school Lyceum #173 in 2014.
   - 📃 High school diploma

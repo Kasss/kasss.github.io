@@ -9,6 +9,7 @@ type: edu
 Graduated International IT University in Almaty, Kazakhstan 🇰🇿.
   - 🎓 BSc degree - Computer Systems and Software Engineering (3.1 Overall GPA)
   - 💾 Collaborated with Microsoft MSP program
+  - ⌨️ Participated in Hackathon, Almaty 2017
   - ⌨️ Participated in Hackathon, Almaty 2016
 
 Visit [International IT University][iitu].

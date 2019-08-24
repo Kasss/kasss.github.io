@@ -15,8 +15,9 @@ layout: default
       <ul class="post-list" id="exp">
         {% for post in site.posts %}
           <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <span class="post-meta">{{ post.date_end | date: "%b %-d, %Y" }}</span>
+            <span class="post-meta"> - </span>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </li>
         {% endfor %}
@@ -27,7 +28,7 @@ layout: default
       <span class="card-title">Education</span>
 
       <ul class="post-list" id="edu">
-        {% for post in site.education %}
+        {% for edu in site.posts %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <a class="post-link" href="{{ edu.url | prepend: site.baseurl }}">{{ edu.title }}</a>

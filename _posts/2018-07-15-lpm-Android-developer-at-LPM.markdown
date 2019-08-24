@@ -3,7 +3,7 @@ layout: post
 title:  "Android developer at LPM"
 date:   2018-07-15 11:50:00 +0600
 date_end: 2018-11-12 11:50:00 +0600
-categories: jekyll update
+categories: job
 url: work/2
 ---
 Developed mobile application for Android. Description of project below:

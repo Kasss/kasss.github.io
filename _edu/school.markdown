@@ -2,7 +2,7 @@
 layout: edu
 title:  "Finished Lyceum #173"
 date:   2016-07-19 11:49:45 +0600
-categories: info
+categories: jekyll update
 edu: edu/1
 ---
 Finished school Lyceum #173 in 2014.

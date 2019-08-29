@@ -34,7 +34,7 @@ Short about my abilities and skills:
 
 Find me in [⌨️GitHub][github] [📨LinkedIn][linkedin] [📨Telegram][telega] [📨Facebook][facebook] [📷Instagram][insta].
 
-[facebook]: https://web.facebook.com.profile.php?id=100006326387722
+[facebook]: https://www.facebook.com/kassiend
 [github]: https://github.com/Kasss
 [linkedin]: https://www.linkedin.com/in/dauren-kassen-a1563a154/
 [telega]: https://t.me/kassiend

@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-My name Kassen Dauren. I was born, grew and grow in Kazakhstan, Almaty. This my simple achievements and portfolio, not enough, but I am working on it and try my best. Have enough skills to do the given job, but not enough to me. So, briefly about childhood:  
+My name Dauren. I was born, grew and grow in Kazakhstan, Almaty. This my simple achievements and portfolio, not enough, but I am working on it and try my best. So, briefly about childhood:  
 
   - ✖ from early childhood, I was never motivated and goal oriented person, even when spent 2-years in judo by instruction of my father.
 
@@ -11,7 +11,7 @@ My name Kassen Dauren. I was born, grew and grow in Kazakhstan, Almaty. This my 
 
   - ✖ I was more dreamer that the person who realizing his dreams.
 
-Everything changed when I have visited english courses at the end of school year and found teacher, who helped me to find my goal and motivation. Nowadays workin' in studio, developing applications and keep growing. So, since and now:
+Everything changed when I have visited english courses at the end of school year and found teacher, who helped to open up and kill pessimistic introvert in myself, also to find my goal and motivation. Nowadays workin' in studio, developing applications and keep growing. So, since and now:
 
   - ✔ never stopped dreaming, but instead of just dreaming making it goal to reach it.
   - ✔ find out that when you have money it is good, but when work is fun it's even better.
@@ -25,9 +25,9 @@ Short about my education:
 Short about my abilities and skills:
 
   - ✔ Experienced mobile application developer with almost 2 year background.
-  - ✔ I Know programming OOP (Object Oriented Programming) languages as Java, C++, Swift, Kotlin and C#.
+  - ✔ I know programming OOP (Object Oriented Programming) languages as Java, C++, Swift, Dart, Kotlin and C#.
   - ✔ Worked with game engines such as Unreal Engine and Unity. (Have experience in game dev).
-  - ✔ I Speak and write English, Russian and my native Kazakh. Also started learning Deutsch.
+  - ✔ I Speak and write English, Russian and my native Kazakh, also started learning Deutsch.
   - ✔ Have experience in freelance sphere, Successfully finished many projects.
 
 
